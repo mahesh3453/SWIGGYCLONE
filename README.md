@@ -137,7 +137,7 @@ Welcome to Online Food Ordering System
 ## 👨‍💻 Author
 
 **Mahesh**
-T.Y. B.Sc. Computer Science
+Computer Science
 
 ---
 
